@@ -4,3 +4,4 @@ Implementation of Q learning algorithm. Used to find the exit of a proposed hous
 
 Rooms are set up as nodes with the room leading to the exit having a higher score than others. This reward score is backtracked to the inital point and an escape route is found.
 
+![alt tag](img/map3a.gif)
